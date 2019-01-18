@@ -12,7 +12,7 @@ Vue CLI 需要 [Node.js](https://nodejs.org/) 8.9 或更高版本 (推荐 8.11.0
 可以使用下列任一命令安装这个新的包：
 
 ``` bash
-npm install -g @vue/cli
+npm install -g @vue/cli --unsafe-perm
 # OR
 yarn global add @vue/cli
 ```
